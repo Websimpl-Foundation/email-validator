@@ -14,7 +14,7 @@ This application may require additional libraries depending on the chosen progra
 # Contributing
 We welcome contributions to this project! Please refer to the CONTRIBUTING.md file for guidelines on submitting pull requests.<br>
 
-#Usage
+# Usage
 Clone this repository:<br>
 git clone https://github.com/<your-username>/email-validator.git
 
