@@ -24,6 +24,6 @@ Python: pip install -r requirements.txt <br>
 
 The application will prompt you to upload an Excel file containing email addresses.
 
-The application will process the file and generate two downloadable Excel files: 
+The application will process the file and generate two downloadable Excel files: <br>
 ValidEmails.xlsx  and<br>
 DisposableEmails.xlsx
