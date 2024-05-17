@@ -7,3 +7,24 @@ This repository contains the code for an application that validates email addres
 3. Sorts validated emails into two downloadable Excel files:<br>
    a. ValidEmails.xlsx - Contains email addresses classified as valid.<br>
    b. DisposableEmails.xlsx - Contains email addresses classified as disposable.<br>
+
+# Dependencies
+This application may require additional libraries depending on the chosen programming language. Please refer to the requirements.txt (Python) file for specific dependencies.<br>
+
+# Contributing
+We welcome contributions to this project! Please refer to the CONTRIBUTING.md file for guidelines on submitting pull requests.<br>
+
+#Usage
+Clone this repository:<br>
+git clone https://github.com/<your-username>/email-validator.git
+
+Install dependencies (if applicable):
+
+Python: pip install -r requirements.txt <br>
+
+The application will prompt you to upload an Excel file containing email addresses.
+
+The application will process the file and generate two downloadable Excel files: 
+# ValidEmails.xlsx 
+and
+# DisposableEmails.xlsx
