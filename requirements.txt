@@ -1,2 +1,1 @@
-You can use the given Python library for the project:<br>
 https://pypi.org/project/disposable-email-domains/
