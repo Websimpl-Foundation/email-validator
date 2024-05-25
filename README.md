@@ -16,7 +16,7 @@ We welcome contributions to this project! Please refer to the CONTRIBUTING.md fi
 
 # Usage
 Clone this repository:<br>
-git clone https://github.com<your-username>/email-validator.git
+git clone https://github.com/your-username/email-validator.git
 
 Install dependencies (if applicable):
 
