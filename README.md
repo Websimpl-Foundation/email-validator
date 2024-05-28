@@ -1,5 +1,5 @@
 # EMAIL VALIDATOR
-This repository contains the code for an application that validates email addresses from an uploaded Excel file and sorts them into two separate downloadable Excel files: valid emails and disposable emails.
+This repository contains the code for a GUI that validates email addresses from an uploaded Excel file and sorts them into two separate downloadable Excel files: 'ValidE.xlsx' mails and 'DisposableEmails.xlsx'.
 
 # Features
 1. Validates email addresses against common email formatting rules.  
@@ -16,7 +16,7 @@ We welcome contributions to this project! Please refer to the CONTRIBUTING.md fi
 
 # Usage
 Clone this repository:<br>
-git clone <https://github.com/your-username/email-validator.git>
+git clone https://github.com/your-username/email-validator.git
 
 Install dependencies (if applicable):
 
