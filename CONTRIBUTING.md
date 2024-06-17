@@ -1,4 +1,4 @@
-We're excited you're interested in contributing to the EMAIL VALIDATOR project! This document outlines the guidelines for submitting your contributions.
+We're excited you're interested in contributing to the <strong>EMAIL VALIDATOR</strong> project! This document outlines the guidelines for submitting your contributions.
 
 # How to Contribute
 There are many ways to contribute to this project:
