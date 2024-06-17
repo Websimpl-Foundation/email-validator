@@ -46,7 +46,7 @@
 <div>
    <h4>Update:</h4>
    <p>
-      <code>main.py</code> - Contains the updated version of <code>script.py</code> and saves the separated files into root directory(C: drive in case of Windows).
+      <code>main.py</code> - Contains the updated version which saves the separated files into root directory(C: drive in case of Windows).
    </p>
 </div>
 
