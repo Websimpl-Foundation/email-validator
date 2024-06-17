@@ -1,6 +1,6 @@
 pandas
 openpyxl
-scikit-learn
-xgboost
 disposable-email-domains
-streamlit
+tkinter
+os
+re
