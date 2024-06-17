@@ -1,5 +1,6 @@
 <div>
 <h1>EMAIL VALIDATOR</h1>
+   <img src="https://th.bing.com/th?id=OIP.1yEv-B0gqtnI3uzQHGJNQgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2" alt="Email.jpg width=100 height=100>
    <p>
       This repository contains the code for a GUI that validates email addresses from an uploaded Excel file and
       sorts them into two separate downloadable Excel files: <code>ValidEmails.xlsx</code> and <code>DisposableEmails.xlsx</code>.
